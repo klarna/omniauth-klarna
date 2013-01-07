@@ -4,8 +4,8 @@ require File.expand_path('../lib/omniauth/klarna/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.add_dependency 'omniauth', '~> 1.0'
 
-  gem.authors       = ["Guy Rozen"]
-  gem.email         = ["guy.rozen@klarna.com"]
+  gem.authors       = ["Klarna"]
+  gem.email         = ["omniauth@klarna.com"]
   gem.description   = %q{An OmniAuth 1.0 oauth2 strategy for Klarna}
   gem.summary       = %q{This gem will simplify authenticating with Klarna using OAuth 2.0}
   gem.homepage      = ""
