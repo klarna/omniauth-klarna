@@ -2,7 +2,8 @@
 
 This is the official OmniAuth strategy to authenticate with Klarna via OAuth2.
 
-In order to use this strategy you will need to register for an API key and secret. You can do this over at http://some.link.com.
+In order to use this strategy you will need to register for an API key
+and secret. Contact omniauth@klarna.com to register.
 
 ## Basic Usage
 
